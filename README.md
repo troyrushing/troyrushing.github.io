@@ -8,6 +8,7 @@ Management, and implementation of Data Structures and Algorithms.
 This page includes all sorts of code and projects to better display my skills and capabilities. 
 
 ## Skills
+- Code Review
 - Python
 - SQL
 - Databases
