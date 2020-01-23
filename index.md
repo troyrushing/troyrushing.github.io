@@ -16,5 +16,7 @@ This page includes all sorts of code and projects to better display my skills an
 - Data Structure & Algorithm Implementation
 
 ## Projects
+- Rental Car Proram and Database Design Code Review (Senior Project)
+  - Code Review
 - Car Rental Calculating Program (Senior Project)
 - Zoo Employee Credential Database (Senior Project)
