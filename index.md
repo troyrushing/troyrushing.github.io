@@ -16,6 +16,7 @@ This page includes all sorts of code and projects to better display my skills an
 - Data Structure & Algorithm Implementation
 
 ## Projects
+- Self Assessment
 - Rental Car Program and Database Design Code Review (Senior Project)
   - [Code Review Part 1](https://github.com/troyrushing/troyrushing.github.io/blob/master/code%20review_part%201.pptx)
   - [Code Review Part 2](https://github.com/troyrushing/troyrushing.github.io/blob/master/code%20review_part%202.pptx)
@@ -25,4 +26,3 @@ This page includes all sorts of code and projects to better display my skills an
 - Zoo Employee Credential Database (Senior Project)
   - Database
   - Narravive
-- Self Assessment
