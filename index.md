@@ -24,4 +24,4 @@ This page includes all sorts of code and projects to better display my skills an
 - Zoo Employee Credential Database (Senior Project)
   - Database
   - Narravive
--Self Assessment
+- Self Assessment
