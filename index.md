@@ -17,7 +17,8 @@ This page includes all sorts of code and projects to better display my skills an
 
 ## Projects
 - Rental Car Program and Database Design Code Review (Senior Project)
-  - Code Review
+  - Code Review Part 1
+  - Code review Part 2
 - Car Rental Program (Senior Project)
   - Rental Car Cost Calculating Program
   - Narrative
