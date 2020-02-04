@@ -17,7 +17,7 @@ This page includes all sorts of code and projects to better display my skills an
 
 ## Projects
 - Rental Car Program and Database Design Code Review (Senior Project)
-  - Code Review Part 1
+  - [Code Review Part 1](https://github.com/troyrushing/troyrushing.github.io/blob/master/code%20review_part%201.pptx)
   - Code Review Part 2
 - Car Rental Program (Senior Project)
   - Rental Car Cost Calculating Program
