@@ -21,6 +21,7 @@ This page includes all sorts of code and projects to better display my skills an
 - Car Rental Program (Senior Project)
   - Rental Car Cost Calculating Program
   - Narrative
-  - Self Assessment
 - Zoo Employee Credential Database (Senior Project)
   - Database
+  - Narravive
+-Self Assessment
