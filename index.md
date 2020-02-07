@@ -36,9 +36,9 @@ I have demonstrated my skills and capabilities in databases through the creation
 - Rental Car Program and Database Design Code Review (Senior Project)
   - [Code Review Part 1](https://github.com/troyrushing/troyrushing.github.io/blob/master/code%20review_part%201.pptx)
   - [Code Review Part 2](https://github.com/troyrushing/troyrushing.github.io/blob/master/code%20review_part%202.pptx)
-- Car Rental Program (Senior Project)
+- Car Rental Program
   - [Rental Car Cost Calculating Program](https://github.com/troyrushing/troyrushing.github.io/blob/master/car%20rental%20program_final.py)
   - [Narrative](https://github.com/troyrushing/troyrushing.github.io/blob/master/Enhancement%20narrative_Car%20rental%20program.docx)
-- Zoo Employee Credential Database (Senior Project)
+- Zoo Employee Credential Database
   - [Database](https://github.com/troyrushing/troyrushing.github.io/blob/master/sqlfiles.zip)
   - [Narravive](https://github.com/troyrushing/troyrushing.github.io/blob/master/Enhancement%20narrative_Database.docx)
