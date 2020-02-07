@@ -41,4 +41,4 @@ I have demonstrated my skills and capabilities in databases through the creation
   - [Narrative](https://github.com/troyrushing/troyrushing.github.io/blob/master/Enhancement%20narrative_Car%20rental%20program.docx)
 - Zoo Employee Credential Database (Senior Project)
   - [Database](https://github.com/troyrushing/troyrushing.github.io/blob/master/sqlfiles.zip)
-  - Narravive
+  - [Narravive](https://github.com/troyrushing/troyrushing.github.io/blob/master/Enhancement%20narrative_Database.docx)
