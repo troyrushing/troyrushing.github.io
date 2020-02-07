@@ -22,7 +22,7 @@ This page includes all sorts of code and projects to better display my skills an
   - [Code Review Part 2](https://github.com/troyrushing/troyrushing.github.io/blob/master/code%20review_part%202.pptx)
 - Car Rental Program (Senior Project)
   - Rental Car Cost Calculating Program
-  - Narrative
+  - [Narrative](https://github.com/troyrushing/troyrushing.github.io/blob/master/Enhancement%20narrative_Car%20rental%20program.docx)
 - Zoo Employee Credential Database (Senior Project)
   - Database
   - Narravive
