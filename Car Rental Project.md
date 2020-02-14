@@ -1,10 +1,10 @@
-# **Car Rental Project**
+# **Rental Car Cost Calculating Project**
 
 ## About
 This project demonstrates my skills and capabilities in software engineering & design as well as implementation of algorithms & data structures. I started with a simple car rental program that was created early in my studies at Southern New Hampshire University in IT-140: Introduction to Scripting. The original code had many error inducing segments that needed to be remedied. Additionally, in order to be a truly useful program, the code needed additional functions such as calculating additional mileage charges, calculating fuel charges, and calculating tax. Please read the Narrative below for more detail on my enhancements to this code.
 
 ## Code
-[Click Here](https://github.com/troyrushing/troyrushing.github.io/blob/master/car%20rental%20program_final.py) to view or download the code for the car rental program.
+[Click Here](https://github.com/troyrushing/troyrushing.github.io/blob/master/car%20rental%20program_final.py) to view or download the code for the rental car cost calculating program.
 
 ## Narrative
 I.	Software Engineering/Design
