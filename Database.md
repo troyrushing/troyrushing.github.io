@@ -21,3 +21,4 @@ This enhancement met the objective planned in the submitted plan in module 1. Th
 D.	Reflection
 In creating this enhancement, I was given the opportunity to refresh my MySQL skills. I had not used these skills since completing DAD-220 in term 19EW5. In DAD-220, we briefly touched on the concept of “foreign keys” in MySQL databases, but did not go into detail or practice them. I had to do some research on how to properly implement foreign keys on primary keys from other tables within the database to make the tables relational. This took some trial and error to properly implement. Using the foreign keys established in the “employees_jobs” table, I was able to write an INNER JOIN query that displayed data from the two other tables (employees table and jobs table).
 
+
