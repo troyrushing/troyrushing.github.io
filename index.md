@@ -37,7 +37,7 @@ I have demonstrated my skills and capabilities in databases through the creation
   - The code review file exceeded the file size allowed by GitHub so I broke the code review into two parts. Part 1 focuses on the Software Engineering & Design enhancement. Part 2 focuses on the Algorithms & Data Structures enhancement as well as the Database enhancement.
   - [Click Here](https://github.com/troyrushing/troyrushing.github.io/blob/master/code%20review_part%201.pptx) to download Part 1 of the code review. Once the page opens, click the "View Raw" link to start the download.
   - [Click Here](https://github.com/troyrushing/troyrushing.github.io/blob/master/code%20review_part%202.pptx) to download Part 2 of the code review. Once the page opens, click the "View Raw" link to start the download.
-- Car Rental Program
+- **Car Rental Program**
   - [Click Here](https://troyrushing.github.io/Car%20Rental%20Project) to view the Rental Car Cost Calculating Program. This project demonstrates my skills and capabilities in software engineering & design as well as implementation of algorithms & data structures
 - **Zoo Employee Credential Database**
   - [Click Here](https://troyrushing.github.io/Database) to view the Zoo Employee Credential Database Project. This project demonstrates my skills and capabilities in database management, design, creation, manipulation, and querying.
