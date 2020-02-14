@@ -34,7 +34,7 @@ I have demonstrated my skills and capabilities in databases through the creation
 
 ## Projects
 - Rental Car Program and Database Design Code Review (Senior Project)
-  - [Code Review Part 1](https://github.com/troyrushing/troyrushing.github.io/blob/master/code%20review_part%201.pptx) ABCD
+  - [Code Review Part 1](https://github.com/troyrushing/troyrushing.github.io/blob/master/code%20review_part%201.pptx)
   - [Code Review Part 2](https://github.com/troyrushing/troyrushing.github.io/blob/master/code%20review_part%202.pptx)
 - Car Rental Program
   - [Rental Car Cost Calculating Program](https://github.com/troyrushing/troyrushing.github.io/blob/master/car%20rental%20program_final.py)
