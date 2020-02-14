@@ -1,4 +1,4 @@
-# **Zoo Employee Database**
+# **Zoo Employee Credential Database**
 
 ## About
 This project demonstrates my skills and capabilities in database design, creation, manipulation, and querying. For this enhancement, I created a database using text files that were provided in IT-145: Foundation in Application Development for a zoo employee authentication program. The provided file for IT-145 were a list of access for administrators, a list of access for veterinarians, a list of access for zookeepers, and a file including employee names, login credentials, and role/job title. I also demonstrated my ability to add content to the database, add columns to the database, delete data from the database, and write commonly used queries.  Please read the Narrative below for more detail on my enhancements for this project. 
