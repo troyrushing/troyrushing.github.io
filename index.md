@@ -29,7 +29,7 @@ I have demonstrated my skills and capabilities in databases through the creation
 - Code Review
 - Python, C/C++, Java
 - SQL, No-SQL Databases
-- Software Engineering
+- Software Engineering & Design
 - Data Structure & Algorithm Implementation
 
 ## Projects
