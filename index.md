@@ -37,7 +37,7 @@ I have demonstrated my skills and capabilities in databases through the creation
   - [Code Review Part 1](https://github.com/troyrushing/troyrushing.github.io/blob/master/code%20review_part%201.pptx)
   - [Code Review Part 2](https://github.com/troyrushing/troyrushing.github.io/blob/master/code%20review_part%202.pptx)
 - Car Rental Program
-  - [Rental Car Cost Calculating Program](https://troyrushing.github.io/Car Rental Project) This project demonstrates my skills and capabilities in software engineering & design as well as implementation of algorithms & data structures
+  - [Rental Car Cost Calculating Program](https://troyrushing.github.io/Car%20Rental%20Project) This project demonstrates my skills and capabilities in software engineering & design as well as implementation of algorithms & data structures
 - Zoo Employee Credential Database
   - [Database](https://github.com/troyrushing/troyrushing.github.io/blob/master/sqlfiles.zip)
   - [Narravive](https://github.com/troyrushing/troyrushing.github.io/blob/master/Enhancement%20narrative_Database.docx)
