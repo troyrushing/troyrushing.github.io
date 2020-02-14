@@ -3,6 +3,9 @@
 ## About
 This project demonstrates my skills and capabilities in database design, creation, manipulation, and querying. For this enhancement, I created a database using text files that were provided in IT-145: Foundation in Application Development for a zoo employee authentication program. The provided file for IT-145 were a list of access for administrators, a list of access for veterinarians, a list of access for zookeepers, and a file including employee names, login credentials, and role/job title. I also demonstrated my ability to add content to the database, add columns to the database, delete data from the database, and write commonly used queries.  Please read the Narrative below for more detail on my enhancements for this project. 
 
+## Code
+[Click Here](https://github.com/troyrushing/troyrushing.github.io/blob/master/sqlfiles.zip) to download the SQL files used to Create, Read, Update, Delete, and Query the database. Once the page opens, click the "View Raw" link to start the download.
+
 ## Narrative
 I.	Databases
 
@@ -18,5 +21,3 @@ This enhancement met the objective planned in the submitted plan in module 1. Th
 D.	Reflection
 In creating this enhancement, I was given the opportunity to refresh my MySQL skills. I had not used these skills since completing DAD-220 in term 19EW5. In DAD-220, we briefly touched on the concept of “foreign keys” in MySQL databases, but did not go into detail or practice them. I had to do some research on how to properly implement foreign keys on primary keys from other tables within the database to make the tables relational. This took some trial and error to properly implement. Using the foreign keys established in the “employees_jobs” table, I was able to write an INNER JOIN query that displayed data from the two other tables (employees table and jobs table).
 
-## Code
-[Click Here](https://github.com/troyrushing/troyrushing.github.io/blob/master/sqlfiles.zip) to download the SQL files used to Create, Read, Update, Delete, and Query the database. Once the page opens, click the "View Raw" link to start the download.
